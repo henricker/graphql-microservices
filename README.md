@@ -28,3 +28,7 @@
 - [Auth] Acessar conteúdo do curso
 
 ### Preview
+
+
+https://user-images.githubusercontent.com/69400902/207745773-09b65892-7731-47bc-92ba-083fe895164e.mp4
+
